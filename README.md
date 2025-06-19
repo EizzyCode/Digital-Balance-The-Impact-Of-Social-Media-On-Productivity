@@ -1,0 +1,2 @@
+# Digital-Balance-The-Impact-Of-Social-Media-On-Productivity
+A comprehensive Power BI analysis examining how social media usage affects workplace productivity across different demographics and platforms. This project reveals that the relationship between digital engagement and work performance is more nuanced than traditional assumptions, offering insights for evidence-based digital workplace policies.
